@@ -1,3 +1,6 @@
+![banner](https://www.canva.com/design/DAElO0sMFHI/t0bDK3M9FSbKHVwDpjC0ag/view)
+
+
 # Hola soy Jere!
  Soy desarrollador fullstack en javaScript, tengo manejo de distintas librerías y frameworks, **me apasiona encontrar soluciones, investigar y aprender.**  Antes de empezar en la programación estudié Diseño Industrial en productos, es decir que tengo muchos años de entrenamiento en resolución de problemas.
 
