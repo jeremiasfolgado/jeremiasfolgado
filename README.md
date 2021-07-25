@@ -1,8 +1,8 @@
 ![banner](https://res.cloudinary.com/ddwvq00p6/image/upload/v1627241375/weatherapp/Peach_Graphic_Designer_Portfolio_Website_1_xxi7b5.gif)
 
 
-# Hola soy Jere!
- Soy desarrollador fullstack en javaScript, tengo manejo de distintas librerías y frameworks, **me apasiona encontrar soluciones, investigar y aprender.**  Antes de empezar en la programación estudié Diseño Industrial en productos, es decir que tengo muchos años de entrenamiento en resolución de problemas.
+
+ Hola soy desarrollador fullstack en javaScript, tengo manejo de distintas librerías y frameworks, **me apasiona encontrar soluciones, investigar y aprender.**  Antes de empezar en la programación estudié Diseño Industrial en productos, es decir que tengo muchos años de entrenamiento en resolución de problemas.
 
 
 ## Tecnogías
