@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAElO0sMFHI/t0bDK3M9FSbKHVwDpjC0ag/view)
+![banner](https://res.cloudinary.com/ddwvq00p6/image/upload/v1627241375/weatherapp/Peach_Graphic_Designer_Portfolio_Website_1_xxi7b5.gif)
 
 
 # Hola soy Jere!
