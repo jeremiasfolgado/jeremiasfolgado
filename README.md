@@ -23,6 +23,7 @@
 * React JS
 * Redux
 * Next JS
+* Styled-Components
 
 
 
